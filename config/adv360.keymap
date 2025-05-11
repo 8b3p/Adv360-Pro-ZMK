@@ -20,7 +20,7 @@
             bindings = <&kp>, <&kp>;
 
             quick-tap-ms = <300>;
-            require-prior-idle-ms = <300>;
+            require-prior-idle-ms = <100>;
         };
     };
 
